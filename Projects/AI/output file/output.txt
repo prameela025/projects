@@ -1,0 +1,105 @@
+
+5 CSE_A
+cn	 - sobin	cd	 - murali	la	 - prakash	ai	 - tapas	dbms	 - jyothsna	
+
+5 CSE_B
+cn	 - sobin	cd	 - murali	la	 - prakash	ai	 - tapas	dbms	 - jyothsna	
+
+5 CSE_C
+cn	 - sobin	cd	 - murali	la	 - prakash	ai	 - tapas	dbms	 - jyothsna	
+
+5 CSE_D
+cn	 - shubam	cd	 - jaya	la	 - sandeep	ai	 - muzakkir	dbms	 - priyanka	
+
+5 CSE_E
+cn	 - shubam	cd	 - jaya	la	 - sandeep	ai	 - muzakkir	dbms	 - priyanka	
+
+5 CSE_F
+cn	 - shubam	cd	 - jaya	la	 - sandeep	ai	 - muzakkir	dbms	 - priyanka	
+
+5 CSE_G
+cn	 - satish	cd	 - shuvendhu	la	 - krishna	ai	 - ashu	dbms	 - anita	
+
+5 CSE_H
+cn	 - satish	cd	 - shuvendhu	la	 - krishna	ai	 - ashu	dbms	 - anita	
+
+5 CSE_I
+cn	 - satish	cd	 - shuvendhu	la	 - krishna	ai	 - ashu	dbms	 - anita	
+
+5 CSE_J
+cn	 - manjula	cd	 - sambit	la	 - damodar	ai	 - chinmaye	dbms	 - niladri	
+
+5 CSE_K
+cn	 - manjula	cd	 - sambit	la	 - damodar	ai	 - chinmaye	dbms	 - niladri	
+
+5 CSE_L
+cn	 - manjula	cd	 - sambit	la	 - damodar	ai	 - chinmaye	dbms	 - niladri	
+
+5 ECE_A
+ac	 - sateesh	emb	 - pradyut	mpmc	 - sunitha	aiml	 - uday	miap	 - Gautam	
+
+5 ECE_B
+ac	 - sateesh	emb	 - pradyut	mpmc	 - sunitha	aiml	 - uday	miap	 - Gautam	
+
+3 CSE_A
+dm	 - Vijay	eco	 - vineesh	de	 - sunil	py	 - deepak	daa	 - Sushil	
+
+3 CSE_B
+dm	 - Vijay	eco	 - vineesh	de	 - sunil	py	 - deepak	daa	 - Sushil	
+
+3 CSE_C
+dm	 - Vijay	eco	 - vineesh	de	 - sunil	py	 - deepak	daa	 - Sushil	
+
+3 CSE_D
+dm	 - sonali	eco	 - Balaji	de	 - anuj	py	 - arnab	daa	 - dinesh	
+
+3 CSE_E
+dm	 - sonali	eco	 - Balaji	de	 - anuj	py	 - arnab	daa	 - dinesh	
+
+3 CSE_F
+dm	 - sonali	eco	 - Balaji	de	 - anuj	py	 - arnab	daa	 - dinesh	
+
+3 CSE_G
+dm	 - pallab	eco	 - manzoor	de	 - venkataramana	py	 - Kavita	daa	 - ajay	
+
+3 CSE_H
+dm	 - pallab	eco	 - manzoor	de	 - venkataramana	py	 - Kavita	daa	 - ajay	
+
+3 CSE_I
+dm	 - pallab	eco	 - manzoor	de	 - venkataramana	py	 - Kavita	daa	 - ajay	
+
+3 CSE_J
+dm	 - sangeeta	eco	 - murtaja	de	 - monoj	py	 - ravikant	daa	 - sanjay	
+
+3 CSE_K
+dm	 - sangeeta	eco	 - murtaja	de	 - monoj	py	 - ravikant	daa	 - sanjay	
+
+3 CSE_L
+dm	 - sangeeta	eco	 - murtaja	de	 - monoj	py	 - ravikant	daa	 - sanjay	
+
+3 CSE_M
+dm	 - rajiv	eco	 - ghanshyam	de	 - sibendhu	py	 - sowkuntla	daa	 - chinmaya	
+
+3 CSE_N
+dm	 - rajiv	eco	 - ghanshyam	de	 - sibendhu	py	 - sowkuntla	daa	 - chinmaya	
+
+3 CSE_O
+dm	 - rajiv	eco	 - ghanshyam	de	 - sibendhu	py	 - sowkuntla	daa	 - chinmaya	
+
+3 CSE_P
+dm	 - pallab	eco	 - manish	de	 - swagata	py	 - meenakshi	daa	 - manikandan	
+
+3 CSE_Q
+dm	 - pallab	eco	 - manish	de	 - swagata	py	 - meenakshi	daa	 - manikandan	
+
+3 CSE_R
+dm	 - pallab	eco	 - manish	de	 - swagata	py	 - meenakshi	daa	 - manikandan	
+
+3 CSE_S
+dm	 - rajkumar	eco	 - stuti	de	 - sudhakar	py	 - udayasankar	daa	 - sonam	
+
+3 CSE_T
+dm	 - rajkumar	eco	 - stuti	de	 - sudhakar	py	 - udayasankar	daa	 - sonam	
+
+3 CSE_U
+dm	 - rajkumar	eco	 - stuti	de	 - sudhakar	py	 - udayasankar	daa	 - sonam	

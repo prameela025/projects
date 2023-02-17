@@ -1,0 +1,25 @@
+<div class="rating"><h3 style="background-color:powderblue;">Likes =0</h3><h3 style="background-color:powderblue;">Dislikes =0</h3></div><style>.rating{font-size:20px;font-family:"Courier New";text-align-last: justify;margin-right: 100px;font-weight: bolder;}</style><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><style>h1 ,.rating, .container {width:1000;margin-left: auto;margin-right: auto;max-width: border-box}.Question {width:1000;margin-left: auto;margin-right: auto;max-width: border-box}div {width: 100vh;}img{max-width: 100%;height: auto;}.Question, .container {background-color:white;box-shadow: 0 0 2px 0px #666;border-radius: 5px;padding: 20px;margin-bottom: 1rem;} body{background-color:#F5F5F5;}</style></head><div class="question"><p><strong>Question</strong></p><p><p><img alt="Write a predicate inorder(+Tree, ?Traversal) that determines the inorder traversal of a given binary tree. Each tree/subtree " src="https://media.cheggcdn.com/media/247/24759206-ec0a-4db1-84d2-929aaf88c0ae/phpXnRX01" style="height:223px;width:1018px;"/></p>
+<p>prolog question</p>
+</p><br/></div><div class="container"><p><strong>Answer</strong></p><p>Total answers posted by the expert is: 980</p><p><u>Prolog code with comments</u> : </p>
+<pre>
+<code>% For leaf, inorder is list of leaf node
+% Otherwise compute inorder of L and inorder of R
+% append left with Node (N) and Right(R)
+inorder(leaf(X),[X]).
+inorder(tree(N,L,R),T) :- inorder(L,L1),inorder(R,R1),
+    				append(L1,[N|R1],T).
+
+% tests
+test_answer :- inorder(tree(1,leaf(2),leaf(3)),T),writeln(T).
+
+test_answer2 :- inorder(tree(a,tree(b,leaf(c),leaf(d)),leaf(e)),T),
+    		writeln(T).</code></pre>
+<p> </p>
+<p><u>Screenshot</u> : </p>
+<p><img alt="Program +
+:-
+test_answer
+1 % For leaf, inorder is list of leaf node
+2 % otherwise compute inorder of L and inorder of R
+3 % a" src="https://media.cheggcdn.com/coop/e0c/e0cec192-4d3e-44c0-88da-6725a1c40722/1636206227437_Screenshot391.png" style="height:359px;width:903px"/></p>
+</div>
